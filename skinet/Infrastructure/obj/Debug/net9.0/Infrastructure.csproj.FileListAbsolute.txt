@@ -1,0 +1,16 @@
+C:\Andoni\Store\skinet\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Andoni\Store\skinet\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Andoni\Store\skinet\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Andoni\Store\skinet\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\Andoni\Store\skinet\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Andoni\Store\skinet\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
